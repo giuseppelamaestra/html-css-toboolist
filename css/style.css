@@ -41,7 +41,8 @@ body {
     background-color: white;
     height: 50px;
     margin-bottom: 5px;
-    border-radius: 10px 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 
 }
 
@@ -49,4 +50,38 @@ body {
 
     background-color: white;
     height: 550px;
+    padding: 50px;
+}
+
+.button1 { 
+    height: 30px;
+    width: 80px;
+    background-color: rgb(70, 173, 241);
+    font-size: 15px;
+    color: white;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    
+    
+}
+
+.button2 { 
+    height: 30px;
+    width: 80px;
+    background-color: white;
+    font-size: 15px;
+    color: lightgray;
+    display: inline-block;
+    margin-left: 20px;
+    border-color: lightgrayx;
+    border: solid 1px;
+    border-radius: 5px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+.buttons {
+    padding-left: 50px;
+    padding-top: 10px;
 }
