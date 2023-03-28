@@ -32,6 +32,21 @@ body {
 }
 
 .sfondo {
-    background-color: aqua;
+    padding: 50px 200px 20px 200px;
 
+}
+
+.box1 {
+
+    background-color: white;
+    height: 50px;
+    margin-bottom: 5px;
+    border-radius: 10px 10px;
+
+}
+
+.box2 {
+
+    background-color: white;
+    height: 550px;
 }
