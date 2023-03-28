@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: rgb(245, 248, 249);
+}
+
+.intestazione {
+    color: black;
+    height: 80px;
+    background-color: white;
+}
+
+.titolo {
+    display: inline;
+    font-size: 40px;
+    vertical-align: baseline;
+    
+    
+
+}
+
+#logo {
+    
+    padding-left: 30px;
+    padding-top: 10px;
+    
+}
+
+.sfondo {
+    background-color: aqua;
+
+}
