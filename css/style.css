@@ -85,3 +85,30 @@ body {
     padding-left: 50px;
     padding-top: 10px;
 }
+
+.lista {
+    list-style-type: none;
+    
+}
+
+.pins {
+    display: inline-block;
+    height: 20px;
+    width: 60px;
+    background-color: rgb(70, 173, 241);
+    color: white;
+    font-size: 8px;
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+li {
+
+    line-height: 50px;
+}
+
+h2 {
+    font-size: 20px;
+}
