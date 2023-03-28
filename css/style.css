@@ -62,9 +62,14 @@ body {
     color: white;
     display: inline-block;
     border-radius: 5px;
+    
+    
+    
+}
+
+.testo-button {
     text-align: center;
-    
-    
+    line-height: 30px;
 }
 
 .button2 { 
@@ -102,6 +107,8 @@ body {
     border-radius: 10px;
     
     vertical-align: middle;
+    line-height: 20px;
+    text-align: center;
     
 }
 
