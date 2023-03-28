@@ -18,7 +18,7 @@ body {
 .titolo {
     display: inline;
     font-size: 40px;
-    vertical-align: baseline;
+    vertical-align: middle;
     
     
 
@@ -28,6 +28,7 @@ body {
     
     padding-left: 30px;
     padding-top: 10px;
+    vertical-align: middle;
     
 }
 
